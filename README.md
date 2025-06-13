@@ -1,11 +1,11 @@
-<!-- Profile README for akhurana-1 -->
+<!-- Profile README for k3itch -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi%20there!%20I'm%20Ashish%20Khurana%20🚀&fontSize=28&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhurana-1&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=k3itch&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/badge/DevOps-AWS%20%7C%20GCP-orange?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Security-Enthusiast-blueviolet"/>
   <img src="https://img.shields.io/badge/Pentesting-Active-critical"/>
@@ -37,8 +37,8 @@ Engineered a scalable log pipeline using **Kafka, Logstash, OpenSearch, and Graf
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhurana-1&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhurana-1&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k3itch&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3itch&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
